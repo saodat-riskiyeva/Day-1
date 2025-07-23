@@ -25,6 +25,8 @@ a:hover {
 
 #todays-challenge {
   color: #044dde;
+  font-weight: bold;
+  font-size: 52px;
 }
 
 #step-one {
