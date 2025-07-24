@@ -24,8 +24,12 @@ p {
   font-family: "Syne Mono", sans-serif;
 }
 
-li {
+/* li {
   list-style: square;
+} */
+
+ol {
+  list-style: none;
 }
 
 a {
