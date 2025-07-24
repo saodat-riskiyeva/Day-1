@@ -24,6 +24,10 @@ p {
   font-family: "Syne Mono", sans-serif;
 }
 
+li {
+  list-style: square;
+}
+
 a {
   color: rgb(167, 1, 78);
   text-decoration: none;
