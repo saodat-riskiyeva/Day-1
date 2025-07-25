@@ -25,6 +25,14 @@ p {
   font-family: "Syne Mono", sans-serif;
 }
 
+header h2 {
+  margin-bottom: 48px;
+}
+
+header p {
+  margin-bottom: 10px;
+}
+
 li {
   background-color: rgb(233, 136, 124);
   border-radius: 6px;
@@ -55,6 +63,6 @@ a:hover {
   font-size: 52px;
 }
 
-#step-one {
+#step {
   color: #de048e;
 }
