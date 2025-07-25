@@ -11,9 +11,10 @@ img {
 }
 
 h1 {
+  font-size: 48px;
+  color: rgb(71, 62, 62);
   padding: 5px;
   font-family: "Oswald", sans-serif;
-  color: red;
   background-color: #f0f0f0;
   border: 1px solid black;
 }
@@ -24,20 +25,27 @@ p {
   font-family: "Syne Mono", sans-serif;
 }
 
-/* li {
+li {
+  background-color: rgb(233, 136, 124);
+  border-radius: 6px;
+  margin: 32px;
   list-style: square;
-} */
+}
 
 ol {
   list-style: none;
 }
 
 a {
-  color: rgb(167, 1, 78);
+  background-color: rgb(167, 1, 78);
+  color: white;
+  border-radius: 4px;
+  font-size: 24px;
   text-decoration: none;
 }
 
 a:hover {
+  background-color: rgb(180, 12, 90);
   text-decoration: underline;
 }
 
