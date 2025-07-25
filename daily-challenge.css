@@ -38,6 +38,7 @@ li {
   border-radius: 6px;
   margin: 32px;
   list-style: square;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 ol {
